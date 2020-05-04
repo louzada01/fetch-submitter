@@ -1,0 +1,11 @@
+{
+  "name": "fetch-submitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:louzada01/fetch-submitter.git",
+  "author": "Louzada <silvalouzada@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
